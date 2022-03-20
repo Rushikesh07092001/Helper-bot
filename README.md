@@ -16,13 +16,17 @@ project is based on azure bot .it easy to use for any one.
 2.create various speech accent from text
 
 
-#How to use 
-click on https://helperbot1234.azurewebsites.net/
-at the end of website there is demo button click on it
-Helper bot will open 
+#How to use :
+click on website link https://helperbot1234.azurewebsites.net/ the helper bot website wil opening .
+at the end of website there is demo button click on it . after that bot framework open
+
+
 #put fist message as : heyy,hello ,HELLO
 
 after that select which service you wnat use
+
+
+Thank you
 
 
 
