@@ -3,7 +3,7 @@
 #project name : Helper bot 
 
 
-#azure service using in project: azure web app ,azure QNA maker
+#azure service using in project: azure web app 
 
 
 #project description :
@@ -17,13 +17,11 @@ project is based on azure bot .it easy to use for any one.
 
 
 #How to use :
-click on website link https://helperbot1234.azurewebsites.net/ the helper bot website wil opening .
-at the end of website there is demo button click on it . after that bot framework open
+click on website link https://helperbot.azurewebsites.net/ the helper bot website wil opening .
+then choose which service you wnat just click button
 
 
-#put fist message as : heyy,hello ,HELLO
 
-after that select which service you wnat use
 
 
 Thank you
