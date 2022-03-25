@@ -17,7 +17,7 @@ project is based on azure bot .it easy to use for any one.
 
 
 #How to use :
-click on website link https://helperbot.azurewebsites.net/ the helper bot website wil opening .
+click on website link https://helperbot1234.azurewebsites.net the helper bot website wil opening .
 then choose which service you wnat just click button
 
 
